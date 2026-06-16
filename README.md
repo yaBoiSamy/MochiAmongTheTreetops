@@ -1,1 +1,1 @@
-My first proper unity project, made with my artist friend Hugo back in highschool.
+One of my larger-scale unity projects, made with my artist friend Hugo.
